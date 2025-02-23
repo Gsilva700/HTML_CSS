@@ -7,7 +7,8 @@
 
 
 ## Description
-This is a responsive survey form built as part of FreeCodeCamp's Responsive Web Design Certification. It collects user information and preferences through a well-structured form.
+This is a responsive survey form built as part of FreeCodeCamp's Responsive Web Design Certification.
+ It collects user information and preferences through a well-structured form.
 
 ## Features
 - **Responsive Design**: Works seamlessly on all screen sizes.
