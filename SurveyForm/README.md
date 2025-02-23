@@ -33,11 +33,11 @@ Fill out the form and submit it.
 
 
 
-Credits
+## Credits
 FreeCodeCamp for the project inspiration and requirements.
 
 
-Acknowledgments
+## Acknowledgments
 Special thanks to FreeCodeCamp for providing the platform to learn and build projects.
 
 Inspiration and resources from MDN Web Docs, W3Schools, and other open-source contributors.
