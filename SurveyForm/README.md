@@ -26,9 +26,6 @@ This project fulfills the following user stories:
 3. The form has an `input` field for name, email, and number with corresponding labels and placeholders.
 
 ## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Gsilva700/survey-form.git
 
    Open the index.html file in your browser.
 
